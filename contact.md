@@ -13,27 +13,29 @@ Whether you're a recruiter, hiring manager, startup founder, or fellow DevOps en
 
 
 
-💼 Open to Opportunities
+💼 
+
+Open to Opportunities
 
 I am currently open to:
 
-Azure DevOps Engineer roles
+      Azure DevOps Engineer roles
 
-Cloud / Infrastructure Automation roles
+      Cloud / Infrastructure Automation roles
 
-Kubernetes / AKS-based projects
+      Kubernetes / AKS-based projects
 
-Remote opportunities
+      Remote opportunities
 
-UAE-based opportunities
+      UAE-based opportunities
 
-DevOps consulting engagements
+      DevOps consulting engagements
 
 If you are hiring or collaborating on cloud modernization initiatives, feel free to reach out.
 
-📬 Contact Details
 
-
+📬 
+Contact Details
 
 LinkedIn:
 https://linkedin.com/in/satyads
@@ -42,24 +44,20 @@ https://linkedin.com/in/satyads
 
 🏗 Areas of Expertise
 
-Azure DevOps
+      Azure DevOps
 
-Terraform (Azure & AWS)
+      Terraform (Azure & AWS)
 
-Azure Kubernetes Service (AKS)
+      Azure Kubernetes Service (AKS)
 
-CI/CD Pipeline Design
+      CI/CD Pipeline Design
 
-Infrastructure as Code
+      Infrastructure as Code
 
-DevSecOps
+      DevSecOps
 
-Blue-Green Deployment
+      Blue-Green Deployment
 
-Cloud Cost Optimization
+      Cloud Cost Optimization
 
-📄 Resume
 
-You can download my resume here:
-
-👉 Download Resume
