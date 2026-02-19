@@ -5,3 +5,10 @@ markdown: kramdown
 minima:
   skin: auto
 
+header_pages:
+  - projects.md
+  - interview.md
+  - blog.md
+
+
+
