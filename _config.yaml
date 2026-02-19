@@ -2,3 +2,13 @@ title: CloudOps with Satya
 description: DevOps | Azure | AKS | Terraform | CI/CD
 theme: minima
 markdown: kramdown
+minima:
+  skin: auto
+
+header_pages:
+  - projects.md
+  - interview.md
+  - blog.md
+
+
+
