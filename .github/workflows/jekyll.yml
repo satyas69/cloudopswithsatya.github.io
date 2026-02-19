@@ -25,12 +25,11 @@ jobs:
           bundler-cache: true
 
       - name: Install dependencies
-        run: |
-          gem install jekyll bundler
-          bundle install || true
+        run:  bundle install
+
 
       - name: Build site
-        run: jekyll build --trace
+        run: bundle exec jekyll build --trace
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -48,4 +47,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
