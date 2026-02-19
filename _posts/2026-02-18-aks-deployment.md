@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "AKS Microservices Project Architecture"
-date: 2026-02-18
 ---
 
 ## 🏗️ Architecture Overview
@@ -31,4 +30,5 @@ This project demonstrates deploying a .NET microservices app to AKS using Terraf
 
 ## 🎥 Video Walkthrough
 [Watch on YouTube](https://youtube.com/yourvideo)
+
 
