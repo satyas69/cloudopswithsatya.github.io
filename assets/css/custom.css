@@ -18,3 +18,15 @@ body {
 h1, h2, h3 {
   color: #2563eb;
 }
+
+pre {
+  background: #0f172a;
+  color: #f8fafc;
+  padding: 15px;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+
+code {
+  color: #38bdf8;
+}
