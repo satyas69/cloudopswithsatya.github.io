@@ -1,5 +1,14 @@
-body {
+/*body {
   font-family: 'Segoe UI', sans-serif;
+}*/
+
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+a {
+  color: #38bdf8;
 }
 
 .site-header {
@@ -48,3 +57,5 @@ code {
   border-radius: 6px;
   text-decoration: none;
 }
+
+
