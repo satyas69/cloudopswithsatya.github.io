@@ -25,10 +25,11 @@ This project demonstrates deploying a .NET microservices app to AKS using Terraf
 6. Deployed via Helm
 7. Implemented monitoring
 
-## 🔗 GitHub Repository
+<!--  🔗 GitHub Repository
 [View Project Code](https://github.com/yourusername/repo)
 
-## 🎥 Video Walkthrough
+## 🎥 Video Walkthrough 
 [Watch on YouTube](https://youtube.com/yourvideo)
 
+-->
 
