@@ -6,9 +6,12 @@ minima:
   skin: auto
 
 header_pages:
+  - home.md
+  - blog.md
   - projects.md
   - interview.md
-  - blog.md
+  - contact.md
+
 
 
 
